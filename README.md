@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Header](https://raw.githubusercontent.com/realalyeasin/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+![YN's GitHub stats](https://github-readme-stats.vercel.app/api?username=realalyeasin&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realalyeasin)](https://github.com/realalyeasin/github-readme-stats)
 <!--
 **realalyeasin/realalyeasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
